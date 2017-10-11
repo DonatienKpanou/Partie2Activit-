@@ -1,0 +1,67 @@
+h2
+{
+	color: red;
+}
+.image
+{
+	float: right;
+	border: 3px red groove;
+	border-radius: 10px;
+	box-shadow: 8px 8px 0px black;
+}	
+.desous
+{
+	cleadr: both;
+}
+.nom
+{
+	text-align: center;
+}
+#cv
+{
+	text-align: center;
+}
+
+body
+{
+	background-image: url("fond.png");
+}
+@font-face
+{
+  font-family: 'FascinateInline-Regular';
+  src: url('police/FascinateInline-Regular.ttf') format('truetype');
+}
+h2
+{
+  font-family: 'FascinateInline-Regular';
+}
+.expériences
+{
+	display: inline-block;
+	width: 25%;
+}
+
+.Compétences
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+}
+.formations
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 25%;
+}
+
+.lisere
+{
+	display: inline-block;
+	border: dashed;
+	width: 100px;
+	height: 800px;
+	vertical-align: top;
+	border-radius: 10px;
+	color: red;
+	background-color: red;
+}	
